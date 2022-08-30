@@ -1,4 +1,4 @@
-# Monster-Macth
+# Monster-Match
 Brackey-2022 GameJame Submssion
 
 || Lead Devloper: Skynemu
