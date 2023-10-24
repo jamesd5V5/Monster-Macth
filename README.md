@@ -6,8 +6,10 @@ Brackey-2022 GameJame Submssion
 || Storyboard: Skynemu, Brandon, Jamesd5
 || Music/Sounds: Jamesd5
 
+Score: Scored in the top 30% of 1,060 teams
+Time: 1 week from scratch
+
 Story:
 From cold barren castles to dry desolate sands, monsters everywhere are trying to find their soulmate too! Play as cupid and help monsters find their true love in Monster Match. With 3 levels of difficulty, find the monster that best meets their criteria. The stronger the love, the higher the Tip!
-
 Compete for the highest scores amongst friends and see who is the best matchmaker!
 
